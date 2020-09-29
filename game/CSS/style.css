@@ -1,0 +1,4 @@
+.game .ressourcen {
+    display: flex;
+    justify-content: space-evenly;
+}
